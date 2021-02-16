@@ -1,0 +1,28 @@
+::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    padding-left: 20px;
+    color: white;
+}
+
+::-moz-placeholder {
+    /* Firefox 19+ */
+    padding-left: 20px;
+    color: white;
+}
+
+:-ms-input-placeholder {
+    /* IE 10+ */
+    padding-left: 20px;
+    color: white;
+}
+
+:-moz-placeholder {
+    /* Firefox 18- */
+    padding-left: 20px;
+    color: white;
+}
+
+#email::placeholder {
+    padding-left: 20px;
+    color: white;
+}
